@@ -1,0 +1,20 @@
+{
+  "name": "hit-sz-course",
+  "version": "1.0.0",
+  "description": "a course spider.",
+  "main": "index.ts",
+  "author": "TankNee",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "cheerio": "^1.0.0-rc.12",
+    "figlet": "^1.5.2",
+    "ics": "^2.37.0",
+    "inquirer": "^9.1.0",
+    "shelljs": "^0.8.5"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.1"
+  }
+}
